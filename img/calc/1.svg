@@ -1,0 +1,16 @@
+<svg width="550" height="94" viewBox="0 0 550 94" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.3">
+<ellipse cx="275" cy="50.0993" rx="275" ry="43.9011" fill="#E0ABFF"/>
+<rect y="43.3848" width="550" height="7.23076" fill="#E0ABFF"/>
+</g>
+<ellipse cx="275" cy="43.9011" rx="275" ry="43.9011" fill="url(#paint0_linear_292_29)"/>
+<defs>
+<linearGradient id="paint0_linear_292_29" x1="76" y1="6.87169" x2="492.451" y2="176.456" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F6EFFF" stop-opacity="0.76"/>
+<stop offset="0.253125" stop-color="#FDFCFF" stop-opacity="0.82075"/>
+<stop offset="0.477083" stop-color="white" stop-opacity="0.8745"/>
+<stop offset="0.685417" stop-color="#FAF6FF" stop-opacity="0.9245"/>
+<stop offset="1" stop-color="#F5EDFF"/>
+</linearGradient>
+</defs>
+</svg>
