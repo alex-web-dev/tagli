@@ -431,6 +431,13 @@ ul {
   display: none;
 }
 
+.menu__toggle:before {
+  content: "";
+  position: absolute;
+  inset: -5px;
+  z-index: -1;
+}
+
 .menu__lines {
   position: relative;
   z-index: 6;

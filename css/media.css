@@ -166,6 +166,7 @@
 
   .menu__toggle {
     position: relative;
+    z-index: 3;
     display: block;
   }
 
